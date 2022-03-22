@@ -1,0 +1,10 @@
+{
+  "tokenId": 42,
+  "name": "orange #42",
+  "description": "",
+  "image_url": "ipfs://QmaZXUNSuys3kEQxcxcqrNUVK6xzXgZPGGxNgYMKRMgzyf/041.png",
+  "animation_url": "",
+  "attributes": {
+    "color": "orange"
+  }
+}
