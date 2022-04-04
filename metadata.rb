@@ -22,7 +22,7 @@ count.times do |i|
       "tokenId": token_id,
       "name": "orange ##{token_id}",
       "description": options['description'].to_s,
-      "image_url": "ipfs://QmZTYytxwCrqnYaFVasJZYtu5dPiPFxQBjGwiWuAtYpntb/#{token_id - 1}.png",
+      "image_url": "ipfs://QmcnCEAuy63vuRQVoqjHQCHqKr7J3QrgFyK9pAGaoAVv3L/#{token_id - 1}.png",
       "animation_url": options['animation_url'].to_s,
       "attributes": {
         "color": 'orange'
